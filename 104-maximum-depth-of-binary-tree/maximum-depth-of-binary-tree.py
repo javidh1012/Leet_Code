@@ -33,8 +33,6 @@ class Solution:
         # return level
 
         #iterative DFS
-
-
         stack = [[root,1]]
         res = 0
 
