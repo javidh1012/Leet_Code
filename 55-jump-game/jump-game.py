@@ -7,4 +7,27 @@ class Solution:
                 goal = i
 
         return True if goal == 0 else False
+
+
+        # l,r=0,len(nums)-1
+
+        # while l<=r:
+        #    if nums[l] !=0:
+        #        l+=nums[l]
+        #    else:
+        #     return False
+        # return True
+
+            
+
+
+
+
+
+
+
+
+
+
+
         
